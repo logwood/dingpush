@@ -1,0 +1,21 @@
+{
+    "name": "logwood/dingpush",
+    "description": "dingtakl bot",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "logwood",
+            "email": "logwood.yu@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Logwood\\DingPush\\": "src/"
+        }
+    }
+}
