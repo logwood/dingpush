@@ -1,7 +1,7 @@
 {
     "name": "logwood/dingpush",
-    "description": "dingtakl bot",
-    "version": "1.0.0",
+    "description": "dingtalk bot",
+    "version": "1.0.1",
     "type": "library",
     "license": "MIT",
     "authors": [
